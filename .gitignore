@@ -1,0 +1,44 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.env
+.venv/
+.env/
+
+# FastAPI
+instance/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+
+# Vite
+/dist
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docx templates
+*.docx
+!backend/template.docx
+
+# Misc
+*.sqlite3
+*.db
+
+# Frontend build
+frontend/dist/
+
+# Environment files
+backend/.env
+
+# Package locks
+frontend/package-lock.json
