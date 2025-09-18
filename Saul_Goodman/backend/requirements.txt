@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-langgraph
-google-generativeai
-python-dotenv
-PyMuPDF
-pandas
-python-multipart
