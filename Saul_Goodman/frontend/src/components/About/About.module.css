@@ -1,0 +1,49 @@
+.aboutContainer {
+  max-width: 900px;
+  margin: 100px auto 40px;
+  padding: 0 20px;
+  font-family: 'Inter', sans-serif;
+  color: var(--light-text);
+}
+
+.section {
+  margin-bottom: 40px;
+}
+
+.section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+  color: var(--primary-orange);
+}
+
+.section h3 {
+  font-size: 1.3rem;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  color: var(--primary-orange);
+}
+
+.section p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.teamList {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.teamList li {
+  margin-bottom: 10px;
+}
+
+.teamList a {
+  color: var(--primary-orange);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.teamList a:hover {
+  text-decoration: underline;
+}
